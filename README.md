@@ -1,1 +1,2 @@
-# nexchan# nexchan
+# NeXChan
+## Discord Bot using discord.js
