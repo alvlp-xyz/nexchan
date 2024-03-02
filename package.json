@@ -6,9 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "alvlp-xyz",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "generate-password": "^1.7.1",
+    "isgd": "^1.1.3",
+        "@discord-player/extractor": "^4.3.1",
+        "@discordjs/opus": "^0.9.0",
+        "@distube/ytdl-core": "^4.11.8",
+        "discord-player": "^6.6.3",
+        "ffmpeg-static": "^5.0.2",
+        "genius-lyrics": "^4.4.3",
+        "ms": "^3.0.0-canary.1",
+        "opusscript": "^0.0.8",
+        "play-dl": "^1.9.6",
+        "ytdl-core": "^4.11.4",
+    "mongoose": "^8.2.0"
   }
 }
